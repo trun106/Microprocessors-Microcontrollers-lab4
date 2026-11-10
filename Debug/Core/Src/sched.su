@@ -1,0 +1,16 @@
+sched.c:26:17:SCH_Enter_Critical	16	static,ignoring_inline_asm
+sched.c:31:13:SCH_Exit_Critical	24	static,ignoring_inline_asm
+sched.c:36:13:SCH_Deadline_Reached	16	static
+sched.c:47:13:SCH_Task_Before	24	static
+sched.c:63:13:SCH_Heap_Swap	24	static
+sched.c:74:13:reHeapUp	24	static
+sched.c:88:13:reHeapDown	32	static
+sched.c:113:17:SCH_Heap_Insert	24	static
+sched.c:130:13:SCH_Heap_Remove	32	static
+sched.c:159:13:SCH_Release_Task	16	static
+sched.c:171:6:SCH_Init	16	static
+sched.c:196:6:SCH_Update	16	static
+sched.c:211:10:SCH_Add_Task	32	static
+sched.c:243:9:SCH_Delete_Task	24	static
+sched.c:267:6:SCH_Dispatch_Tasks	32	static
+sched.c:314:10:get_time	4	static
